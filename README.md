@@ -1,0 +1,2 @@
+# damianfydrych
+grupa 1

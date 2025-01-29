@@ -50,11 +50,17 @@
         .brand h2 {
             color: #333;
         }
+        .header-image {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>MTB Bikes and Top Brands</h1>
+        <img src="A_dynamic_action_shot_of_a_mountain_biker_riding_d.png" alt="Mountain Biker" class="header-image">
         <nav>
             <ul>
                 <li><a href="#fox">Fox</a></li>
